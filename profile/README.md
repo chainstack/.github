@@ -4,7 +4,7 @@
 </p>
 
 **Chainstack is the leading Web3 infrastructure provider.**  
-We run fast, reliable nodes for **25+ blockchains**—so builders can focus on products, not plumbing.
+We run fast, reliable nodes for **70+ blockchains**—so builders can focus on products, not plumbing.
 
 <p align="center">
   <a href="https://console.chainstack.com" target="_blank">
@@ -35,6 +35,5 @@ We run fast, reliable nodes for **25+ blockchains**—so builders can focus on p
 ## See also
 | Name | Description |
 |---------|-------------|
-| [Raw Web3 data for your warehouse](https://chainstack.com/raw-web3-data-for-your-warehouse/) | Ingest the chain data, including backfills, in the age of AI when data is gold. |
 | [Best RPC nodes for AI Agents](https://chainstack.com/blockchain-rpc-nodes-for-ai-agents/) | As AI practitioners, we make sure our nodes are always AI-ready. |
 | [Subgraphs](https://chainstack.com/subgraphs/) | Deploy your subgraphs on Chainstack infrastructure and we'll handle the rest. |
