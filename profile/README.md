@@ -29,11 +29,5 @@ We run fast, reliable nodes for **70+ blockchains**—so builders can focus on p
 | [Compare Dashboard](https://compare.chainstack.com/dashboard) | Live benchmarking platform for blockchain node performance. |
 | [Faucet](https://faucet.chainstack.com/) | One-click faucet to grab test tokens fast. |
 | [EVM Swiss Army Knife](https://web3tools.chainstacklabs.com/) | Do all your hex > dec, ENS look-ups, functions signatures etc on one place. |
+| [Polymarket abritrage bot](https://github.com/chainstacklabs/polymarket-alpha-bot) | Find covering portfolios across correlated prediction markets using predefined rules and LLM decisions. |
 
----
-
-## See also
-| Name | Description |
-|---------|-------------|
-| [Best RPC nodes for AI Agents](https://chainstack.com/blockchain-rpc-nodes-for-ai-agents/) | As AI practitioners, we make sure our nodes are always AI-ready. |
-| [Subgraphs](https://chainstack.com/subgraphs/) | Deploy your subgraphs on Chainstack infrastructure and we'll handle the rest. |
